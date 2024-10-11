@@ -1,7 +1,7 @@
-### Hi there! I'm Estevão Ribeiro, a programming learner👋
+### Hi there! I'm Estevão Ribeiro, a programming enthusiast👋
 ##
 
-- 🔭 Currently studying the 3rd year of computing at IFNMG
+- 🔭 Currently studying Computer Science at IFNMG
 - 🌱 Learning OOP, Databases and WEB
 - 🏠 Montes Claros, Minas Gerais, Brazil
 
